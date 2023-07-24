@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif)]
+
 <h1 align="center">Hi 👋, I'm Agrima Bansal</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
 <img align="right" width="400px" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
